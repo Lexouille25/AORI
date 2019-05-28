@@ -4,7 +4,7 @@ Vous saurez tout sur les robots, youpie!
 
 1. [Définitions et historique](definition.md)
 2. [Fonctionnement](fonctionnement.md)
-3. Education
+3. [Education](education.md)
 4. [Utilisation](utilisation.md)
     1. Ecole maternelle
     2. Ecole primaire

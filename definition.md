@@ -8,8 +8,6 @@ Vous trouverez dans cette section les documents vous parlant de la robotique pé
 
 **Abstract:** "Le but de cet article n'est pas de dresser un bilan exhaustif d'une vingtaine d'années de recherches et de pratiques autour de la robotique pédagogique, mais d'illustrer succintement certaines tendances et développements de celle-ci auxquels notre collègue Martial Vivet a contribué."
 
-![historique](/images/Denis_Brigitte1.png)
-
 ### Marchand, Daniel. "La robotique pédagogique ! Ça existe ?" [en ligne]. In _Le bulletin de l'EPI_. 5 septembre 1991 [consulté le 8 mai 2019], n°65, p.119-123. Disponible sur le Web: [http://www.epi.asso.fr/fic_pdf/b65p119.pdf](http://www.epi.asso.fr/fic_pdf/b65p119.pdf). ISSN: 2429-3067
 
 ![definition](/images/Marchand_Daniel1.png)

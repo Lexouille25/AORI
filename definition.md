@@ -8,7 +8,7 @@ Vous trouverez dans cette section les documents vous parlant de la robotique pé
 
 **Abstract:** "Le but de cet article n'est pas de dresser un bilan exhaustif d'une vingtaine d'années de recherches et de pratiques autour de la robotique pédagogique, mais d'illustrer succintement certaines tendances et développements de celle-ci auxquels notre collègue Martial Vivet a contribué."
 
-### Gaille, Suzanne. _Robotique pédagogique et créativité_. Mémoire professionnel: Diplôme d'enseignement pour les degrés préscolaires et primaires: Lausanne, Haute Ecole pédagogique de Lausanne: juin 2015. 82 p.
+### Gaille, Suzanne. _Robotique pédagogique et créativité_. [en ligne] Mémoire professionnel: Diplôme d'enseignement pour les degrés préscolaires et primaires: Lausanne, Haute Ecole pédagogique de Lausanne: juin 2015. 82 p. [consulté le 28 mai 2019] Disponible sur le Web: [http://doc.rero.ch/record/259558/files/md_bp_p25811_2015.pdf](http://doc.rero.ch/record/259558/files/md_bp_p25811_2015.pdf)
 
 ### Marchand, Daniel. "La robotique pédagogique ! Ça existe ?" [en ligne]. In _Le bulletin de l'EPI_. 5 septembre 1991 [consulté le 8 mai 2019], n°65, p.119-123. Disponible sur le Web: [http://www.epi.asso.fr/fic_pdf/b65p119.pdf](http://www.epi.asso.fr/fic_pdf/b65p119.pdf). ISSN: 2429-3067
 

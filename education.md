@@ -4,7 +4,7 @@
 
 Ici nous retrouvons les documents expliquant en quoi la robotique pédagogique peut être un outil éducatif.
 
-
+#### Didier, John et Quinche, Florence. 
 
 #### Gaille, Suzanne. _Robotique pédagogique et créativité_. Mémoire professionnel: Diplôme d'enseignement pour les degrés préscolaires et primaires: Lausanne, Haute Ecole pédagogique de Lausanne: juin 2015. 82 p.
 

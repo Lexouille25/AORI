@@ -23,9 +23,11 @@ Nous les avons classées en fonction du type d'enseignement.
 
 **Abstract:** "L’objectif du présent travail est l’étude de la conception et de l’implémentation des scénarios pédagogiques concernant l’usage de la robotique éducative et plus précisément des jouets programmables à l’école maternelle. Dans ce contexte, on étudie, à l’aide de la recherche évaluative orientée vers la conception (design based research), le processus de conception, d’application et d’évaluation des scénarios éducatifs dans des contextes réels de classes maternelles. Ces scénarios ont pour but le développement des concepts préliminaires de programmation et des concepts mathématiques par les enfants de la maternelle. Une analyse préliminaire de l’implémentation d’un scénario typique concernant les représentations des enfants sur les jouets programmables et sur leurs idées mentales des commandes de programmation du robot programmable montre qu’il y a eu une évolution importante de celles-ci vers les objectifs prévus par le scénario."
 
-#### KOMIS, Vassilis et MISIRLI, Anastasia. "Robotique pédagogique et concepts préiminaires de la programmation à l'école maternelle: une étude de cas basée sur le jouet programmable Bee-Bot" [en ligne].
+#### KOMIS, Vassilis et MISIRLI, Anastasia. "Jeux programmables de type Logo à l’école maternelle" [en ligne]._Adjectif_. 30 mai 2012 [consulté le 8 mai 2019], vol. 2. Disponible sur le Web: [http://www.adjectif.net/spip/spip.php?article140](http://www.adjectif.net/spip/spip.php?article140) ISSN 2610-1920
 
-#### KOMIS, Vassilis et MISIRLI, Anastasia. "Robotique pédagogique et concepts préiminaires de la programmation à l'école maternelle: une étude de cas basée sur le jouet programmable Bee-Bot" [en ligne].
+**Abstract:** "Dans ce bref article on présente un travail en cours concernant les jeux programmables de type Logo à l’école maternelle. Ce travail s’inscrit dans le cadre du projet européen Fibonacci et consiste entre autres à étudier l’apprentissage des concepts préliminaires en programmation dans le contexte des écoles maternelles à l’aide des outils de robotique et plus précisément des jouets programmables. On présente d’abord la problématique concernant l’introduction de la robotique pédagogique à l’école maternelle, ensuite on met l’accent sur la scénarisation pédagogique pour aborder les notions de programmation à la petite enfance et, enfin, on discute les premiers résultats de la recherche."
+
+#### KOMIS, Vassilis et MISIRLI, Anastasia. "Robotique pédagogique et concepts préiminaires de la programmation à l'école maternelle: une étude de cas basée sur le jouet programmable Bee-Bot" [en ligne]. 
 
 ## Ecole primaire
 

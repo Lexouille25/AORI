@@ -41,7 +41,11 @@ Nous les avons classées en fonction du type d'enseignement.
 
 **Abstract:** "Dans le cadre d’une recherche financée par l’agence nationale de la recherche, DALIE (didactique et apprentissage de l’informatique à l’école), nous présentons des analyses de traces d’activités en classe d’école primaire. Dans différentes classes, des séquences d’enseignement ont été développées par des enseignants, novices ou non, avec des robots programmables. Par les rencontres vécues, les jeunes élèves semblent avoir acquis une démarche scientifique et technologique tout en développant des compétences et des connaissances techniques ainsi qu’informatiques. Les résultats montrent qu’un enseignement de l’informatique est possible et trouve une légitimité avec les nouveaux programmes (MEN, 2015) pour l’école."
 
+#### SPACH, Michel. "Robotique pédagogique à l’école primaire, des pratiques et des apprentissages" [en ligne]. In ETIC. _3ème Colloque international Ecole et TICE_. Juin 2018, Paris, 7 p. Disponible sur le Web: [https://colloque-etic-3.sciencesconf.org/data/pages/SPACH_ETIC3.pdf](https://colloque-etic-3.sciencesconf.org/data/pages/SPACH_ETIC3.pdf)
 
+**Abstract:** "Cette contribution présente des résultats d’une recherche visant à étudier des pratiques d’enseignement ainsi que des processus d’apprentissage de concepts informatiques à l’école primaire. Elle s’est intéressée aux situations pédagogiques confrontant des élèves à différents types de problèmes mobilisant des instruments de traitement de l’information (Baron et Bruillard 2001). Elle a en particulier permis d’analyser la manière dont des enseignants, non spécialistes en informatique, conçoivent ces situations pédagogiques et évaluent la capacité des élèves à penser les objets sur lesquels ils agissent."
+
+#### STREBELLE, Albert, MELOT, Lionel, DUCARME, Amandine et DEPOVER, Christian. "Analyse des comportements sociaux dans le cadre d’un apprentissage collectif de la programmation d’un robot de sol" [en ligne]. _Revue Sciences et Technologies de l'Information et de la Communication pour l'Éducation et la Formation_. 2 juin 2017 [consulté le 15 mai 2019], vol. 24, n°1. Disponible sur le Web [http://sticef.univ-lemans.fr/num/vol2017/24.1.8.strebelle/24.1.8.strebelle.html](http://sticef.univ-lemans.fr/num/vol2017/24.1.8.strebelle/24.1.8.strebelle.html). ISSN 1764-7223
 
 ## Ecole secondaire
 

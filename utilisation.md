@@ -33,6 +33,16 @@ Nous les avons classées en fonction du type d'enseignement.
 
 ## Ecole primaire
 
+#### BEZIAT, Jacques. "Les TIC à l'école primaire en France : informatique et programmation" [en ligne]. _EpiNet_. Novembre 2013 [consulté le 8 mai 2019], n°159. Disponible sur le Web: [https://edutice.archives-ouvertes.fr/file/index/docid/940669/filename/a1311d.htm](https://edutice.archives-ouvertes.fr/file/index/docid/940669/filename/a1311d.htm). ISSN 2429-3067
+
+**Abstract:** "Fin des années 1970, l'usage des ordinateurs en classe passait souvent par l'apprentissage d'un langage de programmation, notamment Logo, soit sur écran, soit par la manipulation de robots programmables. Ainsi, les programmes scolaires de 1985 ont fait une place à cette manipulation. Cet item est retiré des programmes à partir de 1995. L'informatique « usager » s'est développée, notamment avec l'intégration de plus en plus performante des technologies numériques, avec pour effet l'abandon de tout ce qui pouvait relever de la programmation avec les élèves. De fait, le B2i  [1] depuis les années 2000 ne propose de valider que des compétences « usagers » chez les élèves. Pour autant, l'intérêt de la programmation à l'école primaire a-t-il été réellement remis en question ? La littérature du champ a déjà largement présenté des recherches et pratiques pédagogiques sur Logo sans que cela ait réellement une incidence sur les pratiques de classe ni les orientations institutionnelles. À travers une revue de littérature de la presse professionnelle depuis 30 ans, nous mettrons en perspective l'intérêt d'une pratique de la programmation Logo à l'école. La question est d'actualité avec, entre autres, l'apparition sur le marché de nouveaux objets programmables. La programmation, une pratique pour l'école primaire ?"
+
+#### GRUGIER, Olivier et VILLEMONTEIX, François. "Apprentissage de la programmation à l’école par l’intermédiaire de robots éducatifs. Des environnements technologiques à intégrer" [en ligne]. In SERVICES NUMERIQUES DE L'UNIVERSITE DE STRASBOURG. _Environnements informatiques pour l'apprentissage humain_. Juin 2017, Strasbourg, 9 p. Disponible sur le Web: [https://wikis.univ-lille1.fr/computational-teaching/_media/wiki/actions/2017/aii-eiah/5-olivier-grugier-apimu_eiah17.pdf](https://wikis.univ-lille1.fr/computational-teaching/_media/wiki/actions/2017/aii-eiah/5-olivier-grugier-apimu_eiah17.pdf)
+
+**Abstract:** "Dans le cadre d’une recherche financée par l’agence nationale de la recherche, DALIE (didactique et apprentissage de l’informatique à l’école), nous présentons des analyses de traces d’activités en classe d’école primaire. Dans différentes classes, des séquences d’enseignement ont été développées par des enseignants, novices ou non, avec des robots programmables. Par les rencontres vécues, les jeunes élèves semblent avoir acquis une démarche scientifique et technologique tout en développant des compétences et des connaissances techniques ainsi qu’informatiques. Les résultats montrent qu’un enseignement de l’informatique est possible et trouve une légitimité avec les nouveaux programmes (MEN, 2015) pour l’école."
+
+
+
 ## Ecole secondaire
 
 ## Enseignement supérieur

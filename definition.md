@@ -18,4 +18,4 @@ Vous trouverez dans cette section les documents vous parlant de la robotique pé
 
 #### DENIS, Brigitte. "Vingt ans de robotique pédagogique" [en ligne]. In _Sciences et Technologies de l'Information et de la Communication pour l'Éducation et la Formation_. 2000 [consulté le 8 mai 2019], vol. 7, n°1, p.195-206. Disponible sur le Web: [https://www.persee.fr/doc/stice_1265-1338_2000_num_7_1_1450](https://www.persee.fr/doc/stice_1265-1338_2000_num_7_1_1450) ISSN: 1764-7223
 
-**Abstract:** "Le but de cet article n'est pas de dresser un bilan exhaustif d'une vingtaine d'années de recherches et de pratiques autour de la robotique pédagogique, mais d'illustrer succintement certaines tendances et développements de celle-ci auxquels notre collègue Martial Vivet a contribué."
+**Abstract:** "Cet article présente quelques-unes des tendances de la recherche en robotique pédagogique au cours de ces vingt dernières années. Il est illustré par certains développements auxquels Martial Vivet a collaboré."

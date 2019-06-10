@@ -1,6 +1,6 @@
 # Fonctionnement
 
-[Accueil](accueil.md)
+[Accueil](index.md)
 
 Dans cette partie, vous trouverez tous les documents décrivant la conception et le fonctionnement de ces robots pédagogiques. 
 

@@ -11,6 +11,9 @@ Afin d'essayer de couvrir au mieux ce sujet, nous avons regroupés différents d
 3. [Education](education.md)
 4. [Utilisation](utilisation.md)
         - Ecole maternelle
+        
         - Ecole primaire
+        
         - Ecole secondaire
+        
         - Enseignement supérieur

@@ -10,10 +10,7 @@ Afin d'essayer de couvrir au mieux ce sujet, nous avons regroupés différents d
 2. [Fonctionnement](fonctionnement.md)
 3. [Education](education.md)
 4. [Utilisation](utilisation.md)
-        - Ecole maternelle
-        
-        - Ecole primaire
-        
-        - Ecole secondaire
-        
-        - Enseignement supérieur
+   - Ecole maternelle
+   - Ecole primaire
+   - Ecole secondaire
+   - Enseignement supérieur

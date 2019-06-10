@@ -1,6 +1,6 @@
 # Education
 
-[Accueil](accueil.md)
+[Accueil](index.md)
 
 Ici nous retrouvons les documents expliquant en quoi la robotique pédagogique peut être un outil éducatif.
 

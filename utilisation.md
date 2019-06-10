@@ -1,6 +1,6 @@
 # Utilisations
 
-[Accueil](accueil.md)
+[Accueil](index.md)
 
 Dans cette partie, nous avons répertorié les différentes utilisations de la robotique pédagogique. 
 Nous les avons classées en fonction du type d'enseignement.

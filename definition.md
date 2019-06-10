@@ -1,6 +1,6 @@
 # Définitions et historique
 
-[Accueil](accueil.md)
+[Accueil](index.md)
 
 Vous trouverez dans cette section les documents vous parlant de la robotique pédagogique en général.
 

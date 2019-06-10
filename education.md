@@ -24,6 +24,10 @@ Ici nous retrouvons les documents expliquant en quoi la robotique pédagogique p
 
 ![education](/images/Klein_Thierry2.png)
 
+#### NOIRPOUDRE, Stéphanie, ROY, Didier, DESPREZ, Thibault, SEGONDS, Théo, CASELLI, Damien et OUDEYER, Pierre-Yves. "Poppy Education: un dispositif robotique open source pour l'enseignement de l'informatique et de la robotique" [en ligne]. In _Environnements Informatiques pour l’Apprentissage Humain_. Juin 2017, Strasbourg, 9 p. Disponible sur le Web: [https://hal.inria.fr/hal-01517941v2/document](https://hal.inria.fr/hal-01517941v2/document)
+
+**Abstract:** "Les robots sont des outils privilégiés pour contribuer à l'acquisition de la pensée informatique par les élèves. Le dispositif robotique Poppy Education propose une plateforme robotique open-source matériel et logiciel, imprimée en 3d, ainsi que des activités pédagogiques également open-source. Des enseignants et des chercheurs font vivre ce dispositif en co-créant des activités, en les testant avec les élèves, en échangeant sur leurs usages et en faisant évoluer la plateforme selon les besoins."
+
 #### VIVET, Martial. "Des robots pour apprendre" [en ligne]. In _Sciences et Technologies de l'Information et de la Communication pour l'Éducation et la Formation_. 2000 [consulté le 2 mai 2019], vol. 7, n°1, p.17-60. Disponible sur le Web: [https://www.persee.fr/doc/stice_1265-1338_2000_num_7_1_1441](https://www.persee.fr/doc/stice_1265-1338_2000_num_7_1_1441). ISSN: 1764-7223
 
 **Abstract:** "Cet article correspond à un texte inédit de Martial Vivet, écrit à la fin des années quatre-vingt, initialement partie d’un livre qu’il n’a jamais achevé. Il y décrit son parcours personnel et explique son intérêt pour les problèmes d’éducation. Il montre l’utilité du pilotage de microrobots sous un langage comme LOGO pour aborder le problème de la formation de base de personnels de bas niveau de qualification et décrit une expérience conduite en milieu industriel. Il livre différents éléments de réflexion sur les usages possibles des technologies au service de l'éducation."
